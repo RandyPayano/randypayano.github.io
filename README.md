@@ -1,5 +1,4 @@
 # Personal Portfolio
 
 
-
-www.randypayano.github.io
+https://randypayano.github.io/
